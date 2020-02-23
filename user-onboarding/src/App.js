@@ -4,7 +4,7 @@ import Form from "./component/Form";
 
 function App() {
   return (
-    <div className="grid" style={{ height: "100vh", paddingTop: 30 }}>
+    <div style={{ paddingTop: 150 }}>
     <Form />
   </div>
   );
